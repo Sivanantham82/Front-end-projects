@@ -1,0 +1,282 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#navigation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    line-height: 50px; 
+    background-color:#333333;
+    position: sticky;
+    top: 0px;
+}
+#content1{
+    height: 100vh;
+    width: 100%;
+    background-image: url("../assests/showcase.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+     align-items: center;
+     justify-content: center;
+}
+
+.item{
+    color: white;
+    padding: 0px 20px;
+    font-family: 'PT Sans', sans-serif;
+    text-decoration: none;
+}
+.item:hover{
+    background-color: #252529;
+    padding: 0px 10px;
+}
+#content1{
+    text-align: center;
+}
+.content1{
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+}
+#head1{
+    font-size: 64px;
+    margin: 43px 0px 0px;
+}
+#head2{
+    font-size: 32px;
+    margin: 27px 0px;
+}
+#para1{
+    font-size: 20px;
+    margin: 21px 100px;
+    line-height: 1.6;
+}
+#music{
+    height: 180vh;
+    text-align: center;
+    background-color:#252529;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+     align-items: center;
+     justify-content: center;
+
+}
+.music_container{
+    color: #FFFFFF;
+}
+#img1{
+    width: 1180px;
+    height: 712px;
+    
+}
+#head3{
+    font-size: 40px;
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 32px;
+}
+i{
+    height: 40px;
+    width: 40px;
+}
+#head4{
+    height: 51px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 32px;
+    margin: 32px 0px;
+}
+#para2{
+    font-size: 21px;
+    font-family: 'PT Sans', sans-serif;
+    margin: 21px 100px;
+    line-height: 1.6;
+}
+.anchor1{
+    display: inline-block;
+    background-color:#B90415;
+    color: white;
+    text-decoration: none;
+    padding: 20px 10px;
+    border: 1px solid black;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+.anchor1:hover{
+      background-color: #d3071b;
+      }
+#para3{
+    font-size: 16px;
+    margin: 16px 0px;
+    font-family: 'PT Sans', sans-serif;
+}
+#video{
+
+   height: 200vh;
+  background-color: #f4f4f4;
+      display: flex;
+    flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     flex-wrap: wrap;
+     padding: 32px 0px;
+}
+#video{
+    text-align: center;
+}
+#head4{
+   font-family: 'PT Sans', sans-serif;
+   font-size: 32px;
+   margin: 32px 0px;
+}
+#para4{
+    font-size: 21px;
+    font-family: 'PT Sans', sans-serif;
+    margin: 21px 120px;
+    line-height: 1.6;
+}
+.anchor2{
+    display: inline-block;
+    border: 1px solid black;
+    font-size: 16px;
+     font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #103063;
+    text-decoration: none;
+    padding: 16px;
+    margin-left: 55px;
+}
+#video img{
+    width: 1180px;
+    height: 945px;
+}
+#space{
+    height: 91vh;
+    background-image: url("../assests/section-bg.jpeg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    /* padding: 160px 0px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+#head5,#para5{
+    font-family: 'PT Sans', sans-serif; 
+    color: #FFFFFF; 
+}
+#head5{
+    font-size:32px;
+    padding: 32px 0px;
+}
+#para5{
+    font-size: 21px;
+    margin: 21px 100px;
+    line-height: 1.6;
+}
+#gift_containers{
+    height: 467;
+    width: 1349;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+#card1 img{
+    height: 395px;
+    width: 580px;
+}
+#card1{
+    
+    height: 395px;
+    width: 580px; 
+}
+#card2{
+    height: 400px;
+    width: 580px;
+}
+
+#head6{
+    font-size: 24px;
+    font-family: 'PT Sans', sans-serif; 
+    margin: 20px 0px;
+    color: #333333;
+}
+#para6{
+    font-family: 'PT Sans', sans-serif; 
+    text-align: left;
+    line-height: 1.6;
+}
+#para7{
+    font-family: 'PT Sans', sans-serif; 
+    font-size: 16px;
+    margin: 16px 0px;
+}
+#card2 hr{
+    margin: 8px 0px;
+    height: 2px;
+}
+#anchor3 h1{
+    display: inline-block;
+}
+#anchor3{
+    text-decoration: none;
+    font-size: 16px;
+    color: #103063;
+}
+
+#footer_main{
+    width: 1349px;
+    height: 320px;
+}
+#footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 170px;
+    background-color: #252529;
+    height: 280px;
+}
+.mydivs{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: left;
+
+    
+}
+.mydivs a{
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 1.6;
+    color: #CCCCCC;
+    font-family: 'PT Sans', sans-serif;
+}
+.mydivs p{
+    font-family: "PT Sans", sans-serif;
+    font-size: 19px;
+    padding-bottom: 8px;
+    color: #FFFFFF;
+}
+#copy{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    line-height: 2.8;
+    background-color: #333333;
+}
+#copy p{
+    color: #FFFFFF;
+}

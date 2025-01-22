@@ -1,0 +1,180 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Lato", sans-serif;
+}
+
+#fimg11 {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background-image: url("../assests/image1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  opacity: 0.5;
+}
+#fimg1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+#fimg1 h1 {
+  background-color: #585858;
+  color: white;
+  padding: 20px 20px;
+  margin-top: 20px;
+  letter-spacing: 5px;
+}
+
+#section1 {
+  position: relative;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 50vh;
+  line-height: 1.6;
+}
+#section1 p {
+  color: #666666;
+  margin-top: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+#section1 h2 {
+  color: #666666;
+}
+#simg22 {
+  position: absolute;
+  background-image: url("../assests/image2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+  opacity: 0.5;
+}
+#simg2 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50vh;
+}
+#simg2 h1 {
+  color: white;
+  padding: 20px 20px;
+  letter-spacing: 5px;
+}
+#section2 {
+  position: relative;
+  background-color: #282e34;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 50vh;
+  line-height: 1.6;
+}
+#section2 p {
+  color: #dddddd;
+  margin-top: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+#section2 h2 {
+  color: #dddddd;
+}
+#timg33 {
+  position: absolute;
+  background-image: url("../assests/image3.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width: 100%;
+  height: 100vh;
+  opacity: 0.5;
+}
+#timg3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 50vh;
+}
+#timg3 h1 {
+  color: white;
+  padding: 20px 20px;
+  letter-spacing: 5px;
+}
+#section3 {
+  position: relative;
+  background-color: #282e34;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 50vh;
+  line-height: 1.6;
+}
+#section3 p {
+  color: #dddddd;
+  margin-top: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+#section3 h2 {
+  color: #dddddd;
+}
+#fimg44
+{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-image: url("../assests/image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.5;
+}
+#fimg4 {
+ position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+#fimg4 h1 {
+  background-color: #585858;
+  color: white;
+  padding: 20px 20px;
+  margin-top: 20px;
+  letter-spacing: 5px;
+}

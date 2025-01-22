@@ -1,0 +1,25 @@
+img{
+    display: "none";
+    height: 20px;
+    width: 20px;
+}
+body{
+    background-color: antiquewhite;
+}
+#head
+{
+    text-align: center;
+}
+.btn{
+    height: 60px;
+    width: 120px;
+    border-radius: 20px;
+}
+#button
+{
+    margin-left: 500px;
+    margin-top: 40px;
+}
+#button1{
+    margin-left: 20px;
+}

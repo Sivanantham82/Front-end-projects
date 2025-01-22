@@ -1,0 +1,54 @@
+
+#sec
+{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: skyblue;
+}
+#main
+{
+    border: 2px solid black;
+    height: 400px;
+    width: 300px;
+    /* margin-top: 150px;
+    margin-left: 500px; */
+    background-color: rgb(12, 169, 231);
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 3px 3px rgb(236, 246, 250);
+}
+#ip1
+{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#ip2
+{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#ip3
+{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#ip4
+{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+label
+{
+    margin-left: 10px;
+}
+#smt
+{
+    border: 2p solid black;
+    height: 50px;
+    width: 80px;
+    margin-top: 90px;
+    margin-left: 120px;
+}

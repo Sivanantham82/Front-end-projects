@@ -1,0 +1,19 @@
+
+#main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.ip{
+    margin-left: 20px;
+}
+#mydiv{
+    height: 200px;
+    width: 300px;
+    border:1px solid black ;
+}
+#head{
+    
+}

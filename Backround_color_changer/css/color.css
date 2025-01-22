@@ -1,0 +1,12 @@
+#bdy
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sec
+{
+    margin-top: 250px;
+    width: 80px;
+    height: 40px;
+}

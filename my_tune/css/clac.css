@@ -1,0 +1,129 @@
+
+
+#main1
+{
+    
+    border: 1px solid black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(158, 84, 177);
+}
+#main3
+{
+    display: none;
+    position: absolute;
+    top: 0px;
+    height: 100vh;
+    width: 100%;
+    background-color: aqua;
+    opacity: 0.7;
+}
+#main2
+{
+    display: none;
+    position: absolute;
+    top: 0px;
+    border: 1px solid black;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+#div1
+{
+    border: 1px solid black;
+    height: 450px;
+    width: 400px;
+    border-radius: 40px;
+    background-color: rgb(241, 80, 241);
+
+}
+#head
+{
+    
+    font-size: 30px;
+}
+label
+{
+   font-size: 20px;
+    margin-left: 40px;
+    color: rgb(68, 11, 68);
+}
+.ip
+{
+    height: 40px;
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 30px;
+    border-color: rgb(214, 120, 226);
+    background-color: rgb(226, 150, 226);
+    border-radius: 30px;
+}
+#ip2
+{
+    margin-top: 40px;
+}
+.btn
+{
+    border: 1px solid black;
+    height: 50px;
+    width: 150px;
+    border-radius: 40px;
+    font-size: 15px;
+    box-shadow: 0px 0px 5px 5px rgb(167, 44, 184);
+}
+#btn1
+{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#btn3
+{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+#btn4
+{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#btn2,#btn5
+{
+    margin-left: 20px;
+}
+#head2
+{
+    font-size: 55px;
+}
+#restart
+{
+    border: 1px solid black;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    font-size: 15px;
+    
+    box-shadow: 0px 0px 5px 5px rgb(167, 44, 184);
+}
+#para
+{
+    font-size: 45px;
+    font-weight: bold;
+}
+#head2,#restart,#para
+{
+    color:red;
+}
+#res
+{
+    margin-left: 400px;
+    margin-top: 200px;
+    width: 600px;
+}
+#div1:hover
+{
+    box-shadow: 0px 0px 10px 10px rgb(167, 44, 184);
+}
